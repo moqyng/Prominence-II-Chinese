@@ -108,13 +108,14 @@ def process_translation(file_id: int, path: Path) -> dict[str, str]:
         # 确保替换 \\u00A0 和 \\n
         value = re.sub(r"&#92;", r"\\", value)
         value = re.sub(r"\\u00A0", "\u00A0", value)  # 替换 \\u00A0 为 \u00A0
+        other = value
         value = re.sub(r"\\n", "\n", value)  # 替换 \\n 为换行符
         value = re.sub(r'\\"','\"',value)
         if '[\"' in value:
             s = key.split(".")
             with open("CNPack/config/ftbquests/quests/chapters/"+s[2]+".snbt", "r", encoding='UTF-8') as snbt1:
                 snbt = snbt1.read()
-                snbt = snbt.replace("{"+key+"}",value)
+                snbt = snbt.replace("{"+key+"}",other)
             with open("CNPack/config/ftbquests/quests/chapters/"+s[2]+".snbt", "w", encoding='UTF-8') as f1:
                 f1.write(snbt)
         # 保存替换后的值
