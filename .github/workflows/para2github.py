@@ -117,6 +117,7 @@ def process_translation(file_id: int, path: Path) -> dict[str, str]:
             s = key.split(".")
             with open("CNPack/config/ftbquests/quests/chapters/"+s[2]+".snbt", "r", encoding='UTF-8') as snbt1:
                 snbt = snbt1.read()
+                other = other.replace('\"','\\"')
                 snbt = snbt.replace("{"+key+"}",other)
             with open("CNPack/config/ftbquests/quests/chapters/"+s[2]+".snbt", "w", encoding='UTF-8') as f1:
                 f1.write(snbt)
