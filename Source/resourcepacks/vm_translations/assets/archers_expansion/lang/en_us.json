@@ -1,7 +1,7 @@
 {
   "itemGroup.archers_expansion.general": "Archers Extension",
 
-  "item.archers_expansion.deadeye_spell_book": "Bounty List",
+  "item.archers_expansion.deadeye_spell_book": "§eAlnilam's Sight",
   "item.archers_expansion.deadeye_chest": "Deadeye Tunic",
   "item.archers_expansion.deadeye_head": "Deadeye Hood",
   "item.archers_expansion.deadeye_legs": "Deadeye Leggings",
@@ -30,7 +30,7 @@
   "effect.archers_expansion.disabling_shot": "Disabling Shot",
   "effect.archers_expansion.disabling_shot.description": "Slows the target and damages it overtime.",
 
-  "item.archers_expansion.tundra_hunter_spell_book": "Tundric Hunting",
+  "item.archers_expansion.tundra_hunter_spell_book": "§eMintaka's Fright",
   "item.archers_expansion.tundra_hunter_chest": "Tundra Tunic",
   "item.archers_expansion.tundra_hunter_head": "Tundra Hood",
   "item.archers_expansion.tundra_hunter_legs": "Tundra Leggings",
@@ -54,7 +54,7 @@
   "effect.archers_expansion.frozen_pact": "Frozen Pact",
   "effect.archers_expansion.frozen_pact.description": "Damages the targets according to their Frozen ticks and makes reduces their attack.",
 
-  "item.archers_expansion.war_archer_spell_book": "War Archery Instructions",
+  "item.archers_expansion.war_archer_spell_book": "§eAlnitak's Might",
   "item.archers_expansion.war_archer_chest": "Bowman Chest",
   "item.archers_expansion.war_archer_head": "Bowman Helmet",
   "item.archers_expansion.war_archer_legs": "Bowman Leggings",

@@ -56,9 +56,9 @@
   "item.spellbladenext.fire_battlemage_spell_book": "Fire Techniques",
   "item.spellbladenext.frost_battlemage_spell_book": "Frost Techniques",
   "item.spellbladenext.arcane_battlemage_spell_book": "Arcane Techniques",
-  "item.spellbladenext.phoenix_spell_book": "Phoenix Rites",
-  "item.spellbladenext.runic_echoes_spell_book": "Echoes Unleashed",
-  "item.spellbladenext.deathchill_spell_book": "Deathchill Tome",
+  "item.spellbladenext.phoenix_spell_book": "§ePhoenix Rites",
+  "item.spellbladenext.runic_echoes_spell_book": "§eEchoes Unleashed",
+  "item.spellbladenext.deathchill_spell_book": "§eDeathchill Tome",
   "item.spellbladenext.thread": "Thread of Hope",
 
   "entity.spellbladenext.flamewaveprojectile": "Flame Wave",

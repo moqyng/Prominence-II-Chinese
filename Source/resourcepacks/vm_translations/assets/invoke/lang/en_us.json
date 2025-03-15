@@ -145,5 +145,6 @@
 
   "item.invoke.fireinvoker_spell_book": "Fire Invocations",
   "item.invoke.frostinvoker_spell_book": "Frost Invocations",
-  "item.invoke.arcaneinvoker_spell_book": "Arcane Invocations"
+  "item.invoke.arcaneinvoker_spell_book": "Arcane Invocations",
+  "item.invoke.invoker_tome": "§eRunic Invocations"
 }
