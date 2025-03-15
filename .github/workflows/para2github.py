@@ -72,10 +72,10 @@ def save_translation(zh_cn_dict: dict[str, str], path: Path) -> None:
     :param path: 原始文件路径
     """
     dir_path = Path("CNPack") / path.parent
+    if "resourcepacks" in str(dir_path):
+        dir_path = str(dir_path).replace("resourcepacks","config/paxi/resourcepacks")
     dir_path.mkdir(parents=True, exist_ok=True)
     file_path = dir_path / "zh_cn.json"
-    if "resourcepacks" in str(file_path):
-        file_path = str(file_path).replace("resourcepacks","config/paxi/resourcepacks")
     source_path = str(file_path).replace("zh_cn.json", "en_us.json").replace("CNPack", "Source")
     with open(file_path, "w", encoding="UTF-8") as f:
         try:
