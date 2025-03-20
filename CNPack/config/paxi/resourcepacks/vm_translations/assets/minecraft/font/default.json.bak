@@ -1,0 +1,414 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "prominent:item/molten_core.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF933"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ability_plates/active.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF934"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ability_plates/passive.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF937"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/mythic_bosses/mythic.png",
+            "ascent": 9, "height": 13,
+            "chars": ["\uF935"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/mythic_bosses/heroic.png",
+            "ascent": 9, "height": 13,
+            "chars": ["\uF936"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:item/void_hourglass.png",
+            "ascent": 9, "height": 13,
+            "chars": ["\uF938"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/realms.png",
+            "ascent": 34, "height": 39,
+            "chars": ["\uA735"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/mmcn.png",
+            "ascent": 34, "height": 39,
+            "chars": ["\uA737"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:boss_bar/null_bossbar.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uA835"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/passive.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF940"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/active.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF941"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/fate.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF942"]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/attack.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF943"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/attack_speed.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF944"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/defense.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF945"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/health.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF946"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/lethality.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF947"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/spell_haste.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF948"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/spell_critical.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF949"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/fire.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF950"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/arcane.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF951"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/frost.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF952"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/blood.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF953"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/unholy.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF954"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/archery.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF955"]
+        },
+        {
+            "type": "bitmap",
+            "file": "simplyskills:icons/prom_compat/rune_of_stars.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF956"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/holy.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF957"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/soul.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF958"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/lightning.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF959"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/leveling/10.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/leveling/15.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/leveling/20.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF020"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/leveling/25.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF025"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/leveling/30.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF030"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/leveling/35.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF035"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/leveling/40.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF040"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/leveling/45.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF045"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/leveling/50.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF050"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/leveling/55.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF055"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/leveling/60.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF060"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/leveling/65.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF065"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/1_0.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF110"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/1_1.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF111"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/1_2.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF112"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/1_3.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF113"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/1_4.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF114"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/1_5.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF115"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/1_6.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF116"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/2_0.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF120"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/2_1.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF121"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/2_2.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF122"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/2_3.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF123"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/2_4.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF124"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/2_5.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF125"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/2_6.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF126"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/2_7.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF127"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/2_8.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF128"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/3_0.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF130"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/3_1.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF131"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/3_2.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF132"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/3_3.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF133"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/3_4.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF134"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/3_5.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF135"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/3_6.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF136"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/3_7.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF137"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/3_8.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF138"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/3_9.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF139"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ench_limit/3_10.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF13A"]
+        }
+    ]
+}
