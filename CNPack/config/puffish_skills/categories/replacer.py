@@ -49,9 +49,6 @@ def process_json_files(base_dir):
         if os.path.exists(category_file):
             category_name = os.path.basename(root)
             
-            backup_path = category_file + '.bak'
-            shutil.copy2(category_file, backup_path)
-            
             with open(category_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             
@@ -75,9 +72,6 @@ def process_json_files(base_dir):
             if file == "definitions.json":
                 file_path = os.path.join(root, file)
                 category_name = os.path.basename(os.path.dirname(root))
-                
-                backup_path = file_path + '.bak'
-                shutil.copy2(file_path, backup_path)
                 
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
