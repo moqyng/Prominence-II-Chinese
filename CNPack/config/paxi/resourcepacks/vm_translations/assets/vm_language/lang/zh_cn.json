@@ -15,7 +15,7 @@
     "puffish_skills.categories.ascendancyRighteousHammers.title":"§f §6正义之锤",
     "puffish_skills.categories.ascendancyRighteousShield.description":"§7\n点亮此能力后，你每格挡一次攻击，就会获得一层§6黄金圣盾§7效果。每层黄金圣盾会提高你1%的治愈法术强度、护甲值和盔甲韧性。最多叠至15层。\n\n可以主动消耗所有层数，掷出一面由神圣能量凝聚而成的盾牌，其能力取决于消耗的层数：\n\n§7§6少于5层：§7此盾会对敌人造成伤害，命中后反弹2次。\n§65层：§7此盾对敌人造成更高伤害，命中后反弹5次。\n§610层：§7此盾不再造成伤害与反弹，改为穿透并治疗击中的队友。\n§615层：§7此盾变得更大，造成的伤害值显著提高，并在击中目标后施加死亡印记效果，但不再反弹。§7\n\n§fꦘ §9腐化效果§7\n每10点腐化度会增加1级§6黄金圣盾§7效果的等级上限。\n\n§fꦙ §9腐化度达到30以上时§7\n点亮此能力后，会自动缓慢获得§a黄金圣盾§7层数。\n\n§6 §8§n冷却时间：6秒§7",
     "puffish_skills.categories.ascendancyRighteousShield.title":"§f §6正义盾击",
-    "puffish_skills.categories.ascendancySkywardSunder.description":"§7\nGain a stack of Barrier per stack of Might on you and charge forward, knocking back enemies and performing an upward strike, launching both you and your targets into the air before slamming them back into the ground.\n\nThis attack scales with the highest of your attack, ranged, or spell attributes.\nLasts 3.0s.\n\n§fꦘ §9Corruption Effects§7\nIncreases ability damage.\n\n§fꦙ §930+ Corruption Effect§7\nSkyward Sunder now inflicts enemies hit during the charging phase with Deathmark.\n\n§6 §8§n16s Cooldown§7",
+    "puffish_skills.categories.ascendancySkywardSunder.description":"§7\n你每有一级强能效果，即获得一层屏障，随后向前冲刺并击退敌人，接着向上斩击、跃起，并将受击敌人带至空中，最后向地面砸击。\n\n该技能效果受到你的攻击伤害、远程伤害与法术强度中最高项的影响。\n整个技能持续3.0秒。\n\n§fꦘ §9腐化效果§7\n提高技能伤害。\n\n§fꦙ §9腐化度达到30以上时§7\n在冲刺过程中受到伤害的敌人会被施加死亡印记效果。\n\n§6 §8§n冷却时间：16秒§7",
     "puffish_skills.categories.ascendancySkywardSunder.title":"§f §6空裂斩",
     "puffish_skills.categories.atkspeed.title":"§f §e+12% §7§d超新星§7的攻击速度",
     "puffish_skills.categories.attack_speed+6%.title":"§f §e+2% §7攻击速度",
